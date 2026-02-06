@@ -68,4 +68,4 @@ python MovingObjectDetection.py
 | :--- | :--- |
 | **Name** | **G.Rajesh** |
 | **Registration No** | **12219956** |
-| **Email** | @gmail.com |gogudupalemrajesh62@gmail.com
+| **Email** | gogudupalemrajesh62@gmail.com |
